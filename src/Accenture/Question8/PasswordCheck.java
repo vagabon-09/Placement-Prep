@@ -30,7 +30,6 @@ public class PasswordCheck {
                 cta[3] += 1;
             }
         }
-
         if (cta[0] > 0 && cta[1] > 0 && cta[2] > 0 && cta[3] >= 2) {
             System.out.println("0");
             return;
