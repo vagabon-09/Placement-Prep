@@ -1,4 +1,4 @@
-package Accenture.Questions9;
+package Accenture.Question9;
 
 public class Question9 {
     public static void main(String[] args) {
