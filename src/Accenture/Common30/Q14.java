@@ -37,6 +37,7 @@ public class Q14 {
                 position = i;
             }
         }
+
         return position;
     }
 }
