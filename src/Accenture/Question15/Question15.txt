@@ -1,0 +1,16 @@
+Ian has been given an Array A of length N and he wants to find the sum of even positions after reversing the array. Your task is to help him find and return an integer value representing sum of the array elements present at the even index of the reversed array.
+
+input1:
+10,20,30,40,50,60
+6
+
+output1:
+120
+
+
+Input 2:
+21,24,67,12,24,27
+6
+
+output:
+64
