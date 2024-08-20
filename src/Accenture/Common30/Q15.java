@@ -1,8 +1,5 @@
 package Accenture.Common30;
 
-import java.util.HashMap;
-import java.util.concurrent.atomic.*;
-
 public class Q15 {
     public static void main(String[] args) {
         String num = "1210";
