@@ -25,8 +25,6 @@ public class Q25 {
         System.out.println(Arrays.toString(arr));
         BigInteger bg = BigInteger.valueOf(10);
         for (int i = 9; i >= 0; i--) {
-            int n = arr[i];
-
             if (arr[i] != 0) {
                 System.out.println(i);
                 while (arr[i] != 0) {

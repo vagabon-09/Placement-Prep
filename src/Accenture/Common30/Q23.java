@@ -1,6 +1,5 @@
 package Accenture.Common30;
 
-import java.util.Arrays;
 
 public class Q23 {
     public static void main(String[] args) {
