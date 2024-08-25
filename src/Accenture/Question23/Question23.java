@@ -1,4 +1,4 @@
-package Accenture.Questions23;
+package Accenture.Question23;
 
 import java.util.*;
 
